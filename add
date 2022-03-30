@@ -1,0 +1,29 @@
+[33mcommit 69b6f469d490684d140268f864ed90dc2f426d7c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Luis Duarte <contact.gmail.com>
+Date:   Wed Mar 30 15:30:24 2022 -0400
+
+    "ajustes comunes"
+
+[33mcommit d896a83bea422878f27d0e5a4f37f84bf6a75ef4[m
+Author: Luis Duarte <contact.gmail.com>
+Date:   Mon Mar 28 23:07:22 2022 -0400
+
+    Esta es mi primera edicion desde el github
+
+[33mcommit e8655705d29296f6d2da9d5fa73542384d1abc9b[m
+Author: Luis Duarte <contact.gmail.com>
+Date:   Mon Mar 28 22:21:08 2022 -0400
+
+    "Agrego el .gitignore"
+
+[33mcommit c6d9f095e9a7842158d711a61c0242b155cf0ad4[m
+Author: Luis Duarte <contact.gmail.com>
+Date:   Mon Mar 28 22:06:30 2022 -0400
+
+    "este es mi segundo commit"
+
+[33mcommit 4a4fd032e0eae7800049ac030bbbea7c4a4a0b53[m
+Author: Luis Duarte <contact.gmail.com>
+Date:   Mon Mar 28 21:57:31 2022 -0400
+
+    "Este es el primer commit"
