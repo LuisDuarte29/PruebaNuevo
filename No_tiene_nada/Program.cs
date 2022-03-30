@@ -18,6 +18,7 @@ namespace No_tiene_nada
             else
             {
                 Console.WriteLine("No estoy bien");
+                Console.Write("Esto es de verdad");
             }
         }
     }
