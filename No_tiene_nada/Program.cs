@@ -13,6 +13,10 @@ namespace No_tiene_nada
             Console.WriteLine("Hola mundo");
             if (numero > numero2)
             {
+                if (numero == numero2)
+                {
+                    Console.WriteLine("ahora si nos sale");
+                }
                 Console.WriteLine("hola como estas");
             }
             else
