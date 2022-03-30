@@ -15,6 +15,10 @@ namespace No_tiene_nada
             {
                 Console.WriteLine("hola como estas");
             }
+            else
+            {
+                Console.WriteLine("No estoy bien");
+            }
         }
     }
 }
