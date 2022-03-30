@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luis-Enrique\\Downloads\\No_tiene_nada\\No_tiene_nada\\No_tiene_nada.csproj": {}
+    "C:\\Users\\Luis-Enrique\\Desktop\\PruebaNuevo\\No_tiene_nada\\No_tiene_nada.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luis-Enrique\\Downloads\\No_tiene_nada\\No_tiene_nada\\No_tiene_nada.csproj": {
+    "C:\\Users\\Luis-Enrique\\Desktop\\PruebaNuevo\\No_tiene_nada\\No_tiene_nada.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luis-Enrique\\Downloads\\No_tiene_nada\\No_tiene_nada\\No_tiene_nada.csproj",
+        "projectUniqueName": "C:\\Users\\Luis-Enrique\\Desktop\\PruebaNuevo\\No_tiene_nada\\No_tiene_nada.csproj",
         "projectName": "No_tiene_nada",
-        "projectPath": "C:\\Users\\Luis-Enrique\\Downloads\\No_tiene_nada\\No_tiene_nada\\No_tiene_nada.csproj",
+        "projectPath": "C:\\Users\\Luis-Enrique\\Desktop\\PruebaNuevo\\No_tiene_nada\\No_tiene_nada.csproj",
         "packagesPath": "C:\\Users\\Luis-Enrique\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luis-Enrique\\Downloads\\No_tiene_nada\\No_tiene_nada\\obj\\",
+        "outputPath": "C:\\Users\\Luis-Enrique\\Desktop\\PruebaNuevo\\No_tiene_nada\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
